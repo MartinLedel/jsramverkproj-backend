@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Amazon.com Inc",
+        "stockname": "AMZN",
+        "startingPoint": 20,
+        "variance": 0.7,
+        "rate": 1.1,
+        "qty": 100,
+        "history": []
+    },
+    {
+        "name": "Microsoft Corp",
+        "stockname": "MSFT",
+        "startingPoint": 20,
+        "variance": 0.5,
+        "rate": 1.1,
+        "qty": 100,
+        "history": []
+    },
+    {
+        "name": "Apple Inc",
+        "stockname": "AAPL",
+        "startingPoint": 20,
+        "variance": 0.5,
+        "rate": 1.1,
+        "qty": 100,
+        "history": []
+    },
+    {
+        "name": "Alphabet Inc",
+        "stockname": "GOOG",
+        "startingPoint": 20,
+        "variance": 0.7,
+        "rate": 1.1,
+        "qty": 100,
+        "history": []
+    }
+]
