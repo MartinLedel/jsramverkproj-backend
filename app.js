@@ -4,7 +4,7 @@ const cors = require('cors');
 const bodyParser = require("body-parser");
 
 const app = express();
-const port = 1337;
+const port = 2337;
 
 const users = require('./routes/users');
 const stock = require('./routes/stock');
