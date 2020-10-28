@@ -10,7 +10,7 @@ const users = require('./routes/users');
 const stock = require('./routes/stock');
 
 // app.use(cors({credentials: true, origin: 'http://localhost:3000'}));
-app.use(cors({credentials: true, origin: 'https://ml-jsramverkproj.me'}));
+app.use(cors({credentials: true, origin: 'https://frontend.ml-jsramverk.me'}));
 
 if (process.env.NODE_ENV !== 'test') {
     app.use(morgan('combined')); // 'combined' outputs the Apache style LOGs
